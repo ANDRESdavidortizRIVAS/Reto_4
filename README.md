@@ -49,6 +49,11 @@ primos[..]  --PD: este "primos[..]" es una lista donde guardaremos los numeros p
  
 Fin
 ```
+En el caso de que no sepa que siginfica " floor("cualquier numero real") " es una funcion que redondea un numero al entero mas cercano y menor
+ejem:
+floor(5.9999)=5
+floor(3)=3
+
 ## 1.2 Diagrama de flujo de algoritmo para obtener una lista de numeros primos:
 
 Con el fin de entender mejor en pseudocodigo anterior, hice el siguiente diagrama de flujo (...Tambien por que tocaba hacerlo -_- ) en el que la funcion es la misma:"Obtener una lista de numeros primos anteriores a un numero determinado"
